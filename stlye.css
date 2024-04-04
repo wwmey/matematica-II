@@ -1,8 +1,21 @@
-body {
+header {
     background-color: #374bbe;
     color: white;
     }
 
-.cabecalho-imagem{
+.imagem {
     width: 20%;
  }
+
+ .cabeçalho {
+    background-color: #383d58;
+    color: white;
+    display: flex;
+    display: inline-block;
+ }
+
+ .itens {
+    color: white;
+ }
+
+ 
